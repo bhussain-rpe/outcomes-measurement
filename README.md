@@ -2,7 +2,7 @@
 ## Hello! 
 I'm writing this to make it easier for you to work with the R Scripts for this project.
 
-If you're new to Github, please take a moment to go through these awesome tutorials: 
+If you're new to Github, please take a moment to go through these simple tutorials: 
 
 https://try.github.io/
 
