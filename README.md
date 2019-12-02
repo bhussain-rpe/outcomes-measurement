@@ -9,7 +9,7 @@ https://try.github.io/
 https://jahya.net/blog/git-vs-github/
 
 https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Cheatsheet.md
-## An introduction to the Outcomes Measurement Project 
+## An Introduction to the Outcomes Measurement Project 
 LALALA
 ## Code of Conduct
 ...
