@@ -1,6 +1,7 @@
 # Outcomes Measurement Documentation
 ## Hello! 
 I'm writing this to make it easier for you to work with the R Scripts for this project.
+
 If you're new to Github, please take a moment to go through these awesome tutorials: 
 https://try.github.io/
 https://jahya.net/blog/git-vs-github/
