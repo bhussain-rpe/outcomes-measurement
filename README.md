@@ -7,3 +7,6 @@
 
 ## An introduction to the Outcomes Measurement Project 
 #### LALALA
+
+## Stay in Touch
+#### If you have any questions, feel free to email ...
