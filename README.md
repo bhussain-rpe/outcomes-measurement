@@ -13,6 +13,9 @@ https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-H
 LALALA
 ## Code of Conduct
 ...
+## Privacy
+Please go through this privacy checklist before posting anything on this repository:
+https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Content-Approval-Checklist.md
 ## Stay in Touch
 If you have any questions, feel free to email ...
 ## License
